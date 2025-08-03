@@ -14,7 +14,7 @@ This repository showcases two complementary data analytics projects, each examin
 - Identifies user personas (e.g., early drop-offs, late abandoners, high-converters)
 - Simulates revenue uplift by recovering high-potential user segments
 
-🔧 **Skills:** Behavioral feature engineering, unsupervised learning, delay metrics, support log integration, revenue modeling
+🔧 **Skills:** Behavioral feature engineering, data cleaning,EDA, unsupervised learning, delay metrics, support log integration, revenue modeling
 
 ---
 
@@ -26,7 +26,7 @@ This repository showcases two complementary data analytics projects, each examin
 - Visualizes projected conversion gains and revenue uplift per step
 - Prioritizes UX/product interventions based on impact
 
-🔧 **Skills:** Funnel simulation, drop-off math, what-if modeling, visualization, prioritization strategy, data engineering
+🔧 **Skills:** Funnel simulation, drop-off math, what-if modeling, visualization, prioritization strategy, data exploration and engineering
 
 ---
 
